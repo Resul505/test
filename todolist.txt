@@ -1,0 +1,6 @@
+1.napisat html dla burger menu.(ikonko) 
+2.napisat css dla glawnogo menu.
+3.napisat css dla burger menu.
+4.napisat@media.
+5.skryt burger menu.
+6.napisat JC dla otkrytia/zakryt menu.
